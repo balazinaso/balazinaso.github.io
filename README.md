@@ -1,2 +1,1 @@
-# balazinaso.github.io
-Tugas Pemrograman Web 1
+# balazinaso.github.io Tugas Pemrograman Web 
